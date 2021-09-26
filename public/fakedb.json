@@ -1,0 +1,93 @@
+[
+    {
+        "key": 1,
+        "name": "yamaha R15 v2",
+        "Engine": "150 cc",
+        "Top_speed": "135 kmph",
+        "milage": "38 kmpl",
+        "img": "https://www.banglamotor.net/images/yamaha/yamaha-r15-v2.0-image1.jpg",
+        "price": 308000
+        
+    },
+    {
+        "key": 2,
+        "name": "suzuki gsx r150",
+        "Engine": "150 cc",
+        "Top_speed": "130 kmph",
+        "milage": "43 kmpl",
+        "img": "https://www.banglamotor.net/images/suzuki/suzuki_gsx_r150_image2.jpg",
+        "price": 408000
+        
+    },
+    {
+        "key": 3,
+        "name": "aprilia rs4 125",
+        "Engine": "125 cc",
+        "Top_speed": "122 kmph",
+        "milage": "40 kmpl",
+        "img": "https://www.banglamotor.net/images/aprilia/aprilia_rs4_125_image1.jpg",
+        "price": 300000
+        
+    },
+    {
+        "key": 4,
+        "name": "Yamaha r15s",
+        "Engine": "150 cc",
+        "Top_speed": "135 kmph",
+        "milage": "40 kmpl",
+        "img": "https://www.banglamotor.net/images/yamaha/yamaha-r15s-image1.jpg",
+        "price": 305000
+        
+    },
+    {
+        "key": 5,
+        "name": "ktm rc125",
+        "Engine": "125 cc",
+        "Top_speed": "125 kmph",
+        "milage": "36 kmpl",
+        "img": "https://www.banglamotor.net/images/ktm/ktm_rc125_image1.jpg",
+        "price": 308000
+        
+    },
+    {
+        "key": 6,
+        "name": "honda cb 150r repsol",
+        "Engine": "125 cc",
+        "Top_speed": "125 kmph",
+        "milage": "36 kmpl",
+        "img": "https://www.banglamotor.net/images/honda/honda_cb_150r_repsol_image1.jpg",
+        "price": 308000
+        
+    },
+    {
+        "key": 7,
+        "name": "pulsar ns 160 refresh",
+        "Engine": "160 cc",
+        "Top_speed": "135 kmph",
+        "milage": "38 kmpl",
+        "img": "https://www.bikebd.com/wp-content/uploads/2020/12/pulsar-ns-160-refresh-300x300.jpg",
+        "price": 203000
+        
+    },
+    {
+        "key": 8,
+        "name": "bajaj pulsar 150 twin disc abs ",
+        "Engine": "150 cc",
+        "Top_speed": "135 kmph",
+        "milage": "38 kmpl",
+        "img": "https://www.bikebd.com/wp-content/uploads/2021/03/bajaj-pulsar-150-twin-disc-abs-300x300.jpg.webp",
+        "price": 199900
+        
+    },
+    {
+        "key": 9,
+        "name": "tvs apache rtr 160 4v bs6 price",
+        "Engine": "160 cc",
+        "Top_speed": "130 kmph",
+        "milage": "38 kmpl",
+        "img": "https://www.bikebd.com/wp-content/uploads/2020/12/tvs-apache-rtr-160-4v-bs6-price-300x300.jpg",
+        "price": 186900 
+        
+    }
+    
+]
